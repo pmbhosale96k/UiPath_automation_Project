@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge UiBank-Register",
+  "Type": "Screen",
+  "Id": "m8sHBTQ0q0i-3nAjQ6ZWOQ",
+  "Reference": "cf0vC8I9z0GDTb8njBW0tw/m8sHBTQ0q0i-3nAjQ6ZWOQ",
+  "ParentRef": "cf0vC8I9z0GDTb8njBW0tw/gnr1CMLPx0yLkOu-46IX9g",
+  "Created": "2026-10-21T05:27:32.8359269Z",
+  "Updated": "2026-10-21T05:27:32.8359269Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

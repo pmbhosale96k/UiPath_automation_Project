@@ -1,0 +1,14 @@
+﻿{
+  "Name": "The `user` instance is …",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "jB9esGUWU0WXmmKYdHFz1Q",
+  "Reference": "cf0vC8I9z0GDTb8njBW0tw/jB9esGUWU0WXmmKYdHFz1Q",
+  "ParentRef": "cf0vC8I9z0GDTb8njBW0tw/m8sHBTQ0q0i-3nAjQ6ZWOQ",
+  "Created": "2026-10-21T05:32:02.0159986Z",
+  "Updated": "2026-10-21T05:32:02.0159986Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

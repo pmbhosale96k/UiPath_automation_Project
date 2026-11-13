@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Gj4oOA_dVkCJM9bBpx-MPg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/register-account" DesignTimeRectangle="659, 208, 624, 81" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='uibank.uipath.com says' role='dialog' /&gt;&lt;ctrl name='The `user` instance is not valid. Details: `username` User alrea*' role='text' /&gt;" Guid="e73fc0f7-515b-4847-8a5f-8465873c08d6" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='UiBank-Register and 1 more page - Work - Microsoft​ Edge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fa05838528cb81f3cf1319bbf0f1fce1.jpg" xmlns="">0QeLdMlqBH0CNbM7ELiSopg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge UiBank-Login",
+  "Type": "Screen",
+  "Id": "FqORkNEny0-WJoF3UcDZAQ",
+  "Reference": "cf0vC8I9z0GDTb8njBW0tw/FqORkNEny0-WJoF3UcDZAQ",
+  "ParentRef": "cf0vC8I9z0GDTb8njBW0tw/gnr1CMLPx0yLkOu-46IX9g",
+  "Created": "2026-10-20T13:31:29.0548454Z",
+  "Updated": "2026-10-20T13:31:29.0548454Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

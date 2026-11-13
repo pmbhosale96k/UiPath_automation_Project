@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge UiBank-Login",
+  "Type": "App",
+  "Id": "1BAvN3k6Fk6cu1ftxQx47w",
+  "Reference": "cf0vC8I9z0GDTb8njBW0tw/1BAvN3k6Fk6cu1ftxQx47w",
+  "Created": "2026-10-20T13:31:28.9383556Z",
+  "Updated": "2026-10-20T13:31:28.9383556Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

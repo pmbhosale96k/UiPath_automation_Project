@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Welcome!",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "mftfzBkG60SefGLLP41EvQ",
+  "Reference": "cf0vC8I9z0GDTb8njBW0tw/mftfzBkG60SefGLLP41EvQ",
+  "ParentRef": "cf0vC8I9z0GDTb8njBW0tw/FqORkNEny0-WJoF3UcDZAQ",
+  "Created": "2026-10-20T13:31:29.2395653Z",
+  "Updated": "2026-10-20T13:31:29.2395653Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
